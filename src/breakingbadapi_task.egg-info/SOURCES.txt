@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/breakingbadapi_task.egg-info/PKG-INFO
+src/breakingbadapi_task.egg-info/SOURCES.txt
+src/breakingbadapi_task.egg-info/dependency_links.txt
+src/breakingbadapi_task.egg-info/entry_points.txt
+src/breakingbadapi_task.egg-info/top_level.txt

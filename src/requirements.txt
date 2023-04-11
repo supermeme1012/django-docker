@@ -1,0 +1,11 @@
+asgiref==3.6.0
+backports.zoneinfo==0.2.1
+convert-to-queryset==0.1.7
+Django==3.2
+django-filter==23.1
+djangorestframework==3.14.0
+geographiclib==2.0
+geopy==2.3.0
+pytz==2023.3
+sqlparse==0.4.3
+tzdata==2023.3

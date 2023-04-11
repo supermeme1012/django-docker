@@ -1,0 +1,11 @@
+version: '3.3'
+services:
+  django:
+    build:
+      context: .
+      dockerfile: docker/django/Dockerfile
+    command: /start_local.sh
+    volumes:
+      - .:/app
+    ports:
+      - 8000:8000
